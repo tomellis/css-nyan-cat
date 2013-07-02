@@ -1,4 +1,4 @@
-RS CSS NYAN CAT
+CSS NYAN CAT
 ========
 
 #### Pure CSS Mem ####
